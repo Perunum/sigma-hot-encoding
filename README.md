@@ -1,6 +1,6 @@
 # Credibility in network regression with σ-hot encoding and weight balancing
 
-**Presented at the Insurance Data Science Conference on 17-18 June, Stockholm**
+**Presented at the Insurance Data Science Conference on 17-18 June 2024, Stockholm**
 
 Actuarial credibility can be modeled by adding random effects to risk groups. In recent literature on neural network regression several extensions are proposed following the example of generalized linear mixed models (GLMMs).
 
